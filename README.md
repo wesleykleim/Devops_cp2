@@ -1,10 +1,10 @@
 # api-springboot-web-app
 
-Desenvolvido pelo Grupo: ConnectAll - 2TDS - FIAP
+Desenvolvido pelo Grupo: G10 - 2TDSS - FIAP
 
-Alice Russolo Losacco - RM86436
-Bruno Yudi Tiyoda - RM84199
-João Pedro Lombardi Vieira Soares - RM86433
-Ingrid Pinheiro Gonçalves - RM83579
-Gabriel Augusto Fernandes Silva - RM83267
-Rodrigo Alexander R. dos Santos – RM85576
+Flavio Esrenko Zorzetto RM93175
+Lucas Kenji Nishida RM94233
+Wesley Novaes kleim RM94412
+Jorge Rodrigo dos Santos RM93418
+Luncas Gonçalves Leu de Lima RM88349
+
